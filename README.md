@@ -1,6 +1,8 @@
 # Health-and-Lifestyle-Insight-Analysis
 Analysis initiated for Blood Pressure Level, Body Mass Index Status, Stress Level, Physical Activity and Sleeping Duration | Using Tableau
 
+![498_Sleep-Study-Center-1024x983](https://github.com/Oladipupo09/Health-and-Lifestyle-Insight-Analysis/assets/133363227/bbcd7ea4-71d2-4c33-a891-b799370aa752)
+
 ## Introduction
 The R&D department at the Sleeping Clinic Company is a dynamic and innovative hub, dedicated to improving sleep health and related wellness factors through cutting-edge research and collaborative efforts. We are excited to continue our journey in advancing the field of sleep science and enhancing the well-being of our patients. The R&D department thrives on a culture of creativity, collaboration, and continuous learning. While style is defined as Innovative Thinking, Collaborative Environment, Continuous Improvement, Agile Methodology e.t.c
 
